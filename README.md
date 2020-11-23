@@ -32,7 +32,7 @@ If you'd like to create the email with the customer's email address and PDF atta
 Note: Create email, does not send the email, it creates a draft email which you can customize further if you'd like
 prior to sending (This works if you have Outlook)
 
-5. Calculations for Dashboard
+4. Calculations for Dashboard
 The "Calculations" tab contains the data preparation table for the chart on the "Dashboard" tab. 
 
 
