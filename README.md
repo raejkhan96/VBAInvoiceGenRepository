@@ -12,16 +12,19 @@ Having the information for all the invoices in one place, allows you to keep an 
 open invoices and money made.
 
 1. Update Master Data
+
 Input your original customer master data in the master data tab. 
 Add new customer from the Dashboard tab, by clicking on Add Customer button.
 Edit customer information by clicking on Edit Master Data button.
 
 2. Update the Folder paths
+
 Make sure you create two folders to keep the PDF versions as well as Excel Versions for each invoice created.
 The folders should be created in the directory as wherever this tool is saved. VBA uses thisworkbook.path to find 
 the directory and then looks for the folders you have specified on the dashboard page inside this directory.
 
 3. Adding Invoice Information
+
 As projects come in, add the information to the invoice tab. Start typing the name of the customer in column B 
 then press Enter and select the correct customer from the list. Type in the remaining information.
 Once your job is complete, click on the Create Invoice button.
