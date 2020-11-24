@@ -36,6 +36,7 @@ Note: Create email, does not send the email, it creates a draft email which you 
 prior to sending (This works if you have Outlook)
 
 4. Calculations for Dashboard
+
 The "Calculations" tab contains the data preparation table for the chart on the "Dashboard" tab. 
 
 
